@@ -1,2 +1,2 @@
 # OR
-Osnove računarstva 2015/16 Zadaće
+Osnove računarstva 2015/16 Zadaće, tutorijali i usmeni
