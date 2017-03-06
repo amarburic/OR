@@ -1,0 +1,21 @@
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c: In function ‘unesi’:
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:6:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+     int i = 0;
+     ^
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c: In function ‘prebroji_rijec’:
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:56:11: warning: unused variable ‘p’ [-Wunused-variable]
+     char* p, *t = tekst;
+           ^
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:55:9: warning: unused variable ‘ne_slovo’ [-Wunused-variable]
+     int ne_slovo = 1, counter = 0;
+         ^
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c: In function ‘izbaci_najcescu’:
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:80:13: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+             char rijec[100];
+             ^
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:92:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+     int ind_max=0, max = 0, j;
+     ^
+/home/c9/workspace/aburic1/Ispit2/Z4/main.c:102:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+     char rijec[100];
+     ^

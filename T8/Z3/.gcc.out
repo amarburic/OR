@@ -1,0 +1,4 @@
+/home/c9/workspace/aburic1/T8/Z3/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T8/Z3/main.c:26:19: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+     }while(temp[i]!=-1);
+                   ^

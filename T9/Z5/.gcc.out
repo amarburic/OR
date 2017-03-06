@@ -1,0 +1,8 @@
+/home/c9/workspace/aburic1/T9/Z5/main.c: In function ‘prva_rijec’:
+/home/c9/workspace/aburic1/T9/Z5/main.c:26:5: warning: C++ style comments are not allowed in ISO C90 [enabled by default]
+     //if(ima_slovo)broj++;
+     ^
+/home/c9/workspace/aburic1/T9/Z5/main.c:26:5: warning: (this will be reported only once per input file) [enabled by default]
+/home/c9/workspace/aburic1/T9/Z5/main.c:4:20: warning: unused variable ‘ima_slovo’ [-Wunused-variable]
+     int broj=0,i=0,ima_slovo=0,razmak=1;
+                    ^

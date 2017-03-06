@@ -1,0 +1,4 @@
+/home/c9/workspace/aburic1/T12/Z2/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T12/Z2/main.c:56:52: error: expected expression before ‘)’ token
+ broj_samoglasnika, broj_velikih_slova, broj_cifara,);
+                                                    ^

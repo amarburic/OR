@@ -1,0 +1,7 @@
+/home/c9/workspace/aburic1/T5/Z2/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T5/Z2/main.c:5:24: warning: ‘min’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     int i, input, max, min;
+                        ^
+/home/c9/workspace/aburic1/T5/Z2/main.c:5:19: warning: ‘max’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     int i, input, max, min;
+                   ^

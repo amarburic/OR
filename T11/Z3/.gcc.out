@@ -1,0 +1,16 @@
+/home/c9/workspace/aburic1/T11/Z3/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T11/Z3/main.c:89:12: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+  else if (d==k.poluprecnik)
+            ^
+/home/c9/workspace/aburic1/T11/Z3/main.c:95:11: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+     if(t.x==p.t1.x || t.x==p.t2.x || t.y==p.t1.y || t.y==p.t2.y)
+           ^
+/home/c9/workspace/aburic1/T11/Z3/main.c:95:26: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+     if(t.x==p.t1.x || t.x==p.t2.x || t.y==p.t1.y || t.y==p.t2.y)
+                          ^
+/home/c9/workspace/aburic1/T11/Z3/main.c:95:41: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+     if(t.x==p.t1.x || t.x==p.t2.x || t.y==p.t1.y || t.y==p.t2.y)
+                                         ^
+/home/c9/workspace/aburic1/T11/Z3/main.c:95:56: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+     if(t.x==p.t1.x || t.x==p.t2.x || t.y==p.t1.y || t.y==p.t2.y)
+                                                        ^

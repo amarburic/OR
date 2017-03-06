@@ -1,0 +1,207 @@
+{
+    "buildhost_description": {
+        "id": "localhost",
+        "os": "Linux 3.16.0-49-generic x86_64\nUbuntu 14.04.3 LTS\n",
+        "compiler_version": "gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+        "debugger_version": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1",
+        "profiler_version": ""
+    },
+    "code": "STA009",
+    "time": 1453911154,
+    "message": "Task completed",
+    "compile_result": {
+        "status": 1,
+        "output": "main.c: In function 'unesi':\nmain.c:6:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n     int i = 0;\n     ^\nmain.c: In function 'prebroji_rijec':\nmain.c:56:11: warning: unused variable 'p' [-Wunused-variable]\n     char* p, *t = tekst;\n           ^\nmain.c:55:9: warning: unused variable 'ne_slovo' [-Wunused-variable]\n     int ne_slovo = 1, counter = 0;\n         ^\nmain.c: In function 'izbaci_najcescu':\nmain.c:80:13: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n             char rijec[100];\n             ^\nmain.c:92:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n     int ind_max=0, max = 0, j;\n     ^\nmain.c:102:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n     char rijec[100];\n     ^"
+    },
+    "run_result": [
+
+    ],
+    "debug_result": [
+
+    ],
+    "profile_result": [
+
+    ],
+    "test_results": {
+        "1562": {
+            "status": 1,
+            "run_result": {
+                "output": "0",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1563": {
+            "status": 1,
+            "run_result": {
+                "output": "12345 .\/,4 !@#%^ ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1564": {
+            "status": 1,
+            "run_result": {
+                "output": "''",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1565": {
+            "status": 1,
+            "run_result": {
+                "output": " je neki bezvezni tekst",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1566": {
+            "status": 6,
+            "run_result": {
+                "output": "Koristio sam auto- da dodjem do znaka  ali prije a sam otvorio dek kompjutera ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1567": {
+            "status": 6,
+            "run_result": {
+                "output": "1 22 3 pst ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1568": {
+            "status": 6,
+            "run_result": {
+                "output": "rijecoddvdesetslov rijecoddvdesetslov rijecoddvdesetslov rijecoddvdesetslov ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1569": {
+            "status": 6,
+            "run_result": {
+                "output": "a a  a pst pst pst pst",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1570": {
+            "status": 1,
+            "run_result": {
+                "output": "----",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1571": {
+            "status": 6,
+            "run_result": {
+                "output": " plus  plus  daje naest",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        }
+    }
+}

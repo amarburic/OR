@@ -1,0 +1,37 @@
+/home/c9/workspace/aburic1/T2Z3/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T2Z3/main.c:16:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==1 && d<=19 || m==12 && d>=22)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:18:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==1 && d>=20 || m==2 && d<=18)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:20:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==2 && d>=19 || m==3 && d<=20)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:22:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==3 && d>=21 || m==4 && d<=19)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:24:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==4 && d>=20 || m==5 && d<=20)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:26:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==5 && d>=21 || m==6 && d<=20)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:28:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==6 && d>=21 || m==7 && d<=22)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:30:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==7 && d>=23 || m==8 && d<=22)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:32:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==8 && d>=23 || m==9 && d<=22)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:34:14: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==9 && d>=23 || m==10 && d<=22)
+              ^
+/home/c9/workspace/aburic1/T2Z3/main.c:36:15: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==10 && d>=23 || m==11 && d<=21)
+               ^
+/home/c9/workspace/aburic1/T2Z3/main.c:38:15: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+      if(m==11 && d>=22 || m==12 && d<=21)
+               ^

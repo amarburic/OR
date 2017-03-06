@@ -1,0 +1,8 @@
+/home/c9/workspace/aburic1/T13/Z1/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T13/Z1/main.c:29:6: warning: unknown conversion type character 0xa in format [-Wformat=]
+      while (fscanf(ulaz,"%20s%15s%2d%\n", studenti[i].prezime, studenti[i].ime, &studenti[i].broj_bodova) == 3 && i<300)
+      ^
+/home/c9/workspace/aburic1/T13/Z1/main.c:42:2: warning: C++ style comments are not allowed in ISO C90 [enabled by default]
+  // Upis niza u datoteku
+  ^
+/home/c9/workspace/aburic1/T13/Z1/main.c:42:2: warning: (this will be reported only once per input file) [enabled by default]

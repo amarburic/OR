@@ -1,0 +1,4 @@
+/home/c9/workspace/aburic1/T4/Z4/main.c: In function ‘main’:
+/home/c9/workspace/aburic1/T4/Z4/main.c:47:45: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+         printf(" %d, broj dana: %d",g,(m<=7 && m%2==1 || m>=8 && m%2==0)?(31):(30));
+                                             ^

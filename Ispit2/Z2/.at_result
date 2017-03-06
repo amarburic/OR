@@ -1,0 +1,207 @@
+{
+    "buildhost_description": {
+        "id": "localhost",
+        "os": "Linux 3.16.0-49-generic x86_64\nUbuntu 14.04.3 LTS\n",
+        "compiler_version": "gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+        "debugger_version": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1",
+        "profiler_version": ""
+    },
+    "code": "STA009",
+    "time": 1453904395,
+    "message": "Task completed",
+    "compile_result": {
+        "status": 1,
+        "output": "main.c: In function 'unesi':\nmain.c:6:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n     int i = 0;\n     ^\nmain.c: In function 'izbaci_maxbr':\nmain.c:36:21: warning: 'trduzina' may be used uninitialized in this function [-Wmaybe-uninitialized]\n             trduzina++;\n                     ^\nmain.c:34:17: warning: 'broj' may be used uninitialized in this function [-Wmaybe-uninitialized]\n             broj*=10;\n                 ^"
+    },
+    "run_result": [
+
+    ],
+    "debug_result": [
+
+    ],
+    "profile_result": [
+
+    ],
+    "test_results": {
+        "1512": {
+            "status": 1,
+            "run_result": {
+                "output": "abc45def9",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1513": {
+            "status": 1,
+            "run_result": {
+                "output": "Ovo je neki tekst u kojem nema brojeva",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1514": {
+            "status": 1,
+            "run_result": {
+                "output": "0",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1515": {
+            "status": 1,
+            "run_result": {
+                "output": "Ovoje1neka1proba",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1516": {
+            "status": 1,
+            "run_result": {
+                "output": "''",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1517": {
+            "status": 1,
+            "run_result": {
+                "output": "Ovo 11 je 22 primjer ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1518": {
+            "status": 1,
+            "run_result": {
+                "output": "Primjer-11negativnihbrojeva-33",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1519": {
+            "status": 1,
+            "run_result": {
+                "output": "Primjernegativnih-22brojeva-33",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1520": {
+            "status": 1,
+            "run_result": {
+                "output": "1a2b3cd",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1521": {
+            "status": 1,
+            "run_result": {
+                "output": "1a2bc-1234567d",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        }
+    }
+}

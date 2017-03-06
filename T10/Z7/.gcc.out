@@ -1,0 +1,4 @@
+/home/c9/workspace/aburic1/T10/Z7/main.c: In function ‘tritacke’:
+/home/c9/workspace/aburic1/T10/Z7/main.c:52:17: warning: suggest parentheses around assignment used as truth value [-Wparentheses]
+                 while(*pocetak = *(pocetak+brojac))pocetak++;
+                 ^

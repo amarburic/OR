@@ -1,0 +1,117 @@
+{
+    "buildhost_description": {
+        "id": "localhost",
+        "os": "Linux 3.16.0-49-generic x86_64\nUbuntu 14.04.3 LTS\n",
+        "compiler_version": "gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+        "debugger_version": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1",
+        "profiler_version": ""
+    },
+    "code": "STA009",
+    "time": 1453908134,
+    "message": "Task completed",
+    "compile_result": {
+        "status": 1,
+        "output": ""
+    },
+    "run_result": [
+
+    ],
+    "debug_result": [
+
+    ],
+    "profile_result": [
+
+    ],
+    "test_results": {
+        "1556": {
+            "status": 1,
+            "run_result": {
+                "output": "1 Pero Peric 2012 999.99 999.99 999.99 999.99 999.99 999.99 999.99 999.99 999.99 999.99 999.99 999.99 ",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1557": {
+            "status": 1,
+            "run_result": {
+                "output": "Meho                Mehic               2750.00\n",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": "bs_test_1557.c: In function 'main':\nbs_test_1557.c:54:1: warning: incompatible implicit declaration of built-in function 'strcpy' [enabled by default]\n strcpy(radnici[0].ime, \"Meho\");\n ^"
+            }
+        },
+        "1558": {
+            "status": 1,
+            "run_result": {
+                "output": "Selma               Selmic              1650.00\nAlma                Almic               1375.00\n",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1559": {
+            "status": 1,
+            "run_result": {
+                "output": "1000\nSelma               Selmic              1650.00\nSelma2              Selmic2             1650.00\n",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1560": {
+            "status": 1,
+            "run_result": {
+                "output": "C                   c                   1001.00\n",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        }
+    }
+}

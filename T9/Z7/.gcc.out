@@ -1,0 +1,3 @@
+/home/c9/workspace/aburic1/T9/Z7/main.c:8:5: warning: conflicting types for built-in function ‘strcmp’ [enabled by default]
+ int strcmp(const char* s1, const char* s2, int velikamala){
+     ^

@@ -1,0 +1,11 @@
+/home/c9/workspace/aburic1/Ispit2/Z2/main.c: In function ‘unesi’:
+/home/c9/workspace/aburic1/Ispit2/Z2/main.c:6:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+     int i = 0;
+     ^
+/home/c9/workspace/aburic1/Ispit2/Z2/main.c: In function ‘izbaci_maxbr’:
+/home/c9/workspace/aburic1/Ispit2/Z2/main.c:36:21: warning: ‘trduzina’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             trduzina++;
+                     ^
+/home/c9/workspace/aburic1/Ispit2/Z2/main.c:34:17: warning: ‘broj’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             broj*=10;
+                 ^

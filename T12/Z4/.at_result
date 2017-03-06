@@ -1,0 +1,153 @@
+{
+    "buildhost_description": {
+        "id": "localhost",
+        "os": "Linux 3.16.0-49-generic x86_64\nUbuntu 14.04.3 LTS\n",
+        "compiler_version": "gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+        "debugger_version": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1",
+        "profiler_version": "valgrind-3.10.0.SVN"
+    },
+    "code": "STA009",
+    "time": 1452022169,
+    "message": "Task completed",
+    "compile_result": {
+        "status": 1,
+        "output": ""
+    },
+    "run_result": [
+
+    ],
+    "debug_result": [
+
+    ],
+    "profile_result": [
+
+    ],
+    "test_results": {
+        "1030": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Prosjecna ocjena: 6.50\nProlaznost: 50%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1031": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Prosjecna ocjena: 6.25\nProlaznost: 75%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1032": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Prosjecna ocjena: 8.33\nProlaznost: 100%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1033": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Prosjecna ocjena: 8.67\nProlaznost: 100%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1034": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Prosjecna ocjena: 9.50\nProlaznost: 100%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1035": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Nepostojeci predmet!\nUnesite predmet: Prosjecna ocjena: 8.67\nProlaznost: 100%",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        },
+        "1036": {
+            "status": 1,
+            "run_result": {
+                "output": "Unesite predmet: Zalimo, ali ne postoje podaci o predmetu Tehnike programiranja!",
+                "duration": 0,
+                "status": 1
+            },
+            "debug_result": [
+
+            ],
+            "profile_result": [
+
+            ],
+            "compile_result": {
+                "status": 1,
+                "output": ""
+            }
+        }
+    }
+}

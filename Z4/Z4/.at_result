@@ -1,0 +1,28 @@
+{
+    "buildhost_description": {
+        "id": "localhost",
+        "os": "Linux 3.16.0-49-generic x86_64\nUbuntu 14.04.3 LTS\n",
+        "compiler_version": "gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+        "debugger_version": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1",
+        "profiler_version": "valgrind-3.10.0.SVN"
+    },
+    "code": "STA009",
+    "time": 1451102524,
+    "message": "Task completed",
+    "compile_result": {
+        "status": 1,
+        "output": "main.c: In function 'izracunaj':\nmain.c:86:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n     char* operacije=\"^*\/+-\",stmp[1000]=\"\",s[1000];\n     ^\nmain.c:96:17: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]\n                 int tmp1=pretvori_u_int(s+k),tmp2=pretvori_u_int(s+j+1),tmp3;\n                 ^\nmain.c:123:23: warning: 'tmp3' may be used uninitialized in this function [-Wmaybe-uninitialized]\n                 umetni(s+k,pretvori_u_string(tmp3,stmp));\n                       ^"
+    },
+    "run_result": [
+
+    ],
+    "debug_result": [
+
+    ],
+    "profile_result": [
+
+    ],
+    "test_results": [
+
+    ]
+}

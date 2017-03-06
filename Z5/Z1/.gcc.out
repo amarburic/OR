@@ -1,0 +1,12 @@
+/home/c9/workspace/aburic1/Z5/Z1/main.c: In function ‘statistika’:
+/home/c9/workspace/aburic1/Z5/Z1/main.c:251:5: warning: ISO C90 forbids mixed declarations and code [-Wpedantic]
+     float procenat;
+     ^
+/home/c9/workspace/aburic1/Z5/Z1/main.c: In function ‘glavni_meni’:
+/home/c9/workspace/aburic1/Z5/Z1/main.c:403:53: warning: comparing floating point with == or != is unsafe [-Wfloat-equal]
+                 if(izlaz_robe(naziv_robe, kolicina) == -1)
+                                                     ^
+/home/c9/workspace/aburic1/Z5/Z1/main.c: In function ‘izbaci_paket_iz_skladista’:
+/home/c9/workspace/aburic1/Z5/Z1/main.c:193:37: warning: ‘indeks_paketa_u_skladistu’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+         s->sadrzaj[i] = s->sadrzaj[i+1];
+                                     ^
